@@ -3,7 +3,9 @@
 This Project is about Student Engagement in A Data Science Course and eventually throughout the project following topics have been emphasized :-
 
 **1. DESCRIPTIVE STATISTICS**
+
 **2. CONFIDENCE INTERVAL**
+
 **3. HYPOTHESIS TESTING**
 
 As we progress we cover from the basics of Analysis and Statistics in order to understand the pattern in Q4 2021 AND Q4 2022 among Paid-Plan and Free-plan Students
